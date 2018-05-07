@@ -137,12 +137,12 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 
 - **Flat Square**
 	- ![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)
-	- Markdown: `![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)`
-	- HTML: `<img alt="emoji-log-badge-flat-square" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png" />`
+	- Markdown: `![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)`
+	- HTML: `<img alt="emoji-log-badge-flat-square" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png" />`
 
 - **Non-flat Round**
 	- ![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)
-	- Markdown: `![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)`
-	- HTML: `<img alt="emoji-log-badge-flat-round" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png" />`
+	- Markdown: `![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)`
+	- HTML: `<img alt="emoji-log-badge-flat-round" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png" />`
 
 _Are you a designer?! This project could use better badges, kindly contribute._
