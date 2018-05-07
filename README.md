@@ -136,12 +136,12 @@ Here's a list of repos that make use of Emoji-Log.
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
 - **Flat Square**
-	- ![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)
+	- ![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)
 	- Markdown: `![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)`
 	- HTML: `<img alt="emoji-log-badge-flat-square" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png" />`
 
 - **Non-flat Round**
-	- ![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)
+	- ![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)
 	- Markdown: `![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)`
 	- HTML: `<img alt="emoji-log-badge-flat-round" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png" />`
 
