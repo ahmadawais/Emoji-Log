@@ -135,21 +135,21 @@ Here's a list of repos that make use of Emoji-Log.
 
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
-<br><br>
+<br>
 
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)
 - **STYLE**: Flat Square
 - **MARKDOWN**: `[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 - **HTML**: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg" /></a>`
 
-<br><br>
+<br>
 
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)
 - **STYLE**: Flat Rounded
 - **MARKDOWN**: `[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 - **HTML**: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" /></a>`
 
-<br><br>
+<br>
 
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)
 - **STYLE**: Non flat Rounded
