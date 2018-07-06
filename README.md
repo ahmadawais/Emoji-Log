@@ -10,7 +10,7 @@
 
 ![Philosophy](https://on.ahmda.ws/orq5/c)
 
-### Philosophy
+### PHILOSOPHY
 
 I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, all of that is inherently dull and sometimes boring. Emoji (which is, in fact, the plural of emoji) helps me add colors and emotions to the mix. Nothing bad if you want to add emotions to this 2D flat text-based world of code. I found out that instead of memorizing [hundreds of emoji](https://gitmoji.carloscuesta.me/) it's better to keep the categories small and general.
 
@@ -69,7 +69,7 @@ _— That's it for now. Nothing more nothing less._
 
 ![More](https://on.ahmda.ws/orsm/c)
 
-#### Workflow!
+#### WORKFLOW!
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
@@ -132,7 +132,7 @@ Here's a list of repos that make use of Emoji-Log.
 
 ![badge](https://on.ahmda.ws/rOMZ/c)
 
-### `EMOJI-LOG` Badge Collection
+### `EMOJI-LOG` BADGE COLLECTION
 
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
@@ -186,7 +186,7 @@ ref="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https:/
 
 <br>
 
-#### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
+## [SUPPORT OPEN SOURCE PROJECTS](https://pay.paddle.com/checkout/515568) 🎩
 
 If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
 - 🚀  $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
@@ -197,7 +197,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 ![Thanks](https://on.ahmda.ws/orkW/c)
 
-## License & Attribution
+## LICENSE & ATTRIBUTION
 
 MIT © [Ahmad Awais](https://AhmadAwais.com/).
 
