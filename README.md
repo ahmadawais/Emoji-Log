@@ -186,6 +186,8 @@ ref="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https:/
 
 <br>
 
+![Hello](https://on.ahmda.ws/os6O/c)
+
 ## [SUPPORT OPEN SOURCE PROJECTS](https://pay.paddle.com/checkout/515568) 🎩
 
 If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
