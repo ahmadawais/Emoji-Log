@@ -32,7 +32,7 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 
 ![Start](https://on.ahmda.ws/osd3/c)
 
-### GETTING STARTED!
+### GETTING STARTED
 
 Only use the following Git Commit Messages. Simple and small foot print is the key here.
 
@@ -69,7 +69,7 @@ _— That's it for now. Nothing more nothing less._
 
 ![More](https://on.ahmda.ws/orsm/c)
 
-#### WORKFLOW!
+#### THE WORKFLOW
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
@@ -118,7 +118,7 @@ function gtst() {
 
 ![Using](https://on.ahmda.ws/rP6e/c)
 
-### USING `EMOJI-LOG`!
+### USING `EMOJI-LOG`
 
 Here's a list of repos that make use of Emoji-Log.
 
