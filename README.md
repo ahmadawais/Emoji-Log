@@ -136,13 +136,39 @@ Here's a list of repos that make use of Emoji-Log.
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
 - **Flat Square**
-	- ![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)
-	- Markdown: `![emoji-log-badge-flat-square](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png)`
-	- HTML: `<img alt="emoji-log-badge-flat-square" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-square.png" />`
+	- ![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)
+	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg" /></a>`
 
-- **Non-flat Round**
-	- ![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)
-	- Markdown: `![emoji-log-badge-flat-round](https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png)`
-	- HTML: `<img alt="emoji-log-badge-flat-round" src="https://raw.githubusercontent.com/ahmadawais/Emoji-Log/master/badges/emoji-log-badge-flat-round.png" />`
+- **Flat Rounded**
+	- ![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)
+	- Markdown: `[![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg" /></a>`
+	
+- **Non-flat Rounded**
+	- ![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-non-ed.svged)
+	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg" /></a>`
+	
 
-_Are you a designer?! This project could use better badges, kindly contribute._
+<br>
+
+#### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
+
+If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
+- 🚀  $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
+- 🔰  $49.99 — [Support half an hour maintenance →](https://pay.paddle.com/checkout/527253)
+- ☕️  $9.99 — [Buy us lunch or coffee to keep us trucking #OpenSource →](https://pay.paddle.com/checkout/527254)
+
+<br>
+
+![Thanks](https://on.ahmda.ws/orkW/c)
+
+## License & Attribution
+
+MIT © [Ahmad Awais](https://AhmadAwais.com/).
+
+Thanks to [Munawar](https://munwr.com/) for making awesome badges for this project. This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible. _What/How? [Read more about it →](https://WPCouple.com/partners)_
+
+**_Feel free to say 👋 on Twitter [@MrAhmadAwais →](https://twitter.com/mrahmadawais/)_**
+
