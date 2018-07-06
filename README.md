@@ -122,7 +122,7 @@ function gtst() {
 
 Here's a list of repos that make use of Emoji-Log.
 
-- [Create-Guten-Block](https://github.com/ahmadawais/create-guten-block/commits/master)
+- [Create-Guten-Block](https://github.com/ahmadawais/create-guten-block/commits/ca97874)
 - [AhmadAwais](https://github.com/ahmadawais) — Latest repos on this account.
 - **You?!** Add your repo to the list after adding the Emoji-log badge to your readme.
 
@@ -137,24 +137,24 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 
 - **Flat Square**
 
-![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg)
+![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)
 
-	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg" /></a>`
+	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg" /></a>`
 
 - **Flat Rounded**
 
-![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg)
+![emoji-log-badge-flat-round](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)
 
-	- Markdown: `[![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg" /></a>`
+	- Markdown: `[![emoji-log-badge-flat-round](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" /></a>`
 
 - **Non-flat Rounded**
 
-![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg)
+![emoji-log-badge-non-flat-round](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)
 
-	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg" /></a>`
+	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/notnflat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/notnflat-round.svg" /></a>`
 
 
 <br>
