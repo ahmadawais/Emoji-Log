@@ -136,17 +136,23 @@ Here's a list of repos that make use of Emoji-Log.
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
 - **Flat Square**
-	- ![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)
+
+![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)
+
 	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg" /></a>`
 
 - **Flat Rounded**
-	- ![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)
+
+![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)
+
 	- Markdown: `[![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg" /></a>`
 	
 - **Non-flat Rounded**
-	- ![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-non-ed.svged)
+
+![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-non-ed.svged)
+
 	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg" /></a>`
 	
