@@ -137,25 +137,25 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 
 - **Flat Square**
 
-![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)
+![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg)
 
-	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat.svg" /></a>`
+	- Markdown: `[![emoji-log-badge-flat-square](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat.svg" /></a>`
 
 - **Flat Rounded**
 
-![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)
+![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg)
 
-	- Markdown: `[![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/flat-rounded.svg" /></a>`
-	
+	- Markdown: `[![emoji-log-badge-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/flat-rounded.svg" /></a>`
+
 - **Non-flat Rounded**
 
-![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)
+![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg)
 
-	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
-	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg" /></a>`
-	
+	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
+	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/c7b942694df1621b9a3b9607803f17bc340ac91d/emoji-log/not-flat-rounded.svg" /></a>`
+
 
 <br>
 
@@ -177,4 +177,3 @@ MIT © [Ahmad Awais](https://AhmadAwais.com/).
 Thanks to [Munawar](https://munwr.com/) for making awesome badges for this project. This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible. _What/How? [Read more about it →](https://WPCouple.com/partners)_
 
 **_Feel free to say 👋 on Twitter [@MrAhmadAwais →](https://twitter.com/mrahmadawais/)_**
-
