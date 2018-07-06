@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://on.ahmda.ws/pXeE/c" />
 
-  Emoji Log by Ahmad Awais
+`EMOJI-LOG`
+
 </h1>
 
 
