@@ -6,7 +6,7 @@
 
 > After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`.
 
-<br />
+<br>
 
 ![Philosophy](https://on.ahmda.ws/orq5/c)
 
@@ -27,7 +27,7 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 1. **ACTIONS** ↓
 	- Make git commits based on actions you take.
 	- Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
-<br />
+<br>
 
 
 ![Start](https://on.ahmda.ws/osd3/c)
@@ -65,7 +65,7 @@ Only use the following Git Commit Messages. Simple and small foot print is the k
 _— That's it for now. Nothing more nothing less._
 
 
-<br />
+<br>
 
 ![More](https://on.ahmda.ws/orsm/c)
 
@@ -114,7 +114,7 @@ function gtst() {
 }
 ```
 
-<br />
+<br>
 
 ![Using](https://on.ahmda.ws/rP6e/c)
 
@@ -122,12 +122,13 @@ function gtst() {
 
 Here's a list of repos that make use of Emoji-Log.
 
-- [Create-Guten-Block](https://github.com/ahmadawais/create-guten-block/commits/ca97874)
-- [AhmadAwais](https://github.com/ahmadawais) — Latest repos on this account.
+- [Create-Guten-Block Toolkit →](https://github.com/ahmadawais/create-guten-block/commits/)
+- [VSCode Shades of Purple Theme →](https://github.com/ahmadawais/shades-of-purple-vscode/commits/)
+- [Ahmad Awais GitHub Repos →](https://github.com/ahmadawais) — _Latest repos on this account._
 - **You?!** Add your repo to the list after adding the Emoji-log badge to your readme.
 
 
-<br />
+<br>
 
 ![badge](https://on.ahmda.ws/rOMZ/c)
 
