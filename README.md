@@ -140,12 +140,12 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)
 
 - **STYLE**: Flat Square
-- **MARKDOWN**:
+- **MARKDOWN** ↓
 
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
-- **HTML**:
+- **HTML** ↓
 
 ```html
 <a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg" /></a>
@@ -156,12 +156,12 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)
 
 - **STYLE**: Flat Rounded
-- **MARKDOWN**:
+- **MARKDOWN** ↓
 
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
-- **HTML**:
+- **HTML** ↓
 
 ```html
 <a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg" /></a>
@@ -172,12 +172,12 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)
 
 - **STYLE**: Non flat Rounded
-- **MARKDOWN**:
+- **MARKDOWN** ↓
 
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
-- HTML:
+- **HTML** ↓
 
 ```html
 ref="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg" /></a>
