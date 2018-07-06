@@ -132,7 +132,7 @@ Here's a list of repos that make use of Emoji-Log.
 
 ![badge](https://on.ahmda.ws/rOMZ/c)
 
-### `EMOJI-LOG` BADGE!
+### `EMOJI-LOG` Badge Collection
 
 If your repo uses `EMOJI-LOG` then you can add any of the following badges to your read me and send me a PR to list your repo here.
 
