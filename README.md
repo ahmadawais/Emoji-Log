@@ -4,7 +4,7 @@
   Emoji Log by Ahmad Awais
 </h1>
 
-After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`.
+> After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`.
 
 <br />
 
