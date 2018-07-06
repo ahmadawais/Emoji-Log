@@ -151,7 +151,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 	
 - **Non-flat Rounded**
 
-![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-non-ed.svged)
+![emoji-log-badge-non-flat-rounded](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)
 
 	- Markdown: `[![emoji-log-badge-non-flat-squareed](https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg)](https://github.com/ahmadawais/Emoji-Log/)`
 	- HTML: `<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log-badge-flat-square" src="https://cdn.rawgit.com/ahmadawais/stuff/5e94269b14a9519e1dfb1952b264a5373cdbd1cf/emoji-log/not-flat-rounded.svg" /></a>`
