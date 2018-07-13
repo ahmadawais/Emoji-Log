@@ -184,7 +184,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 - **HTML** ↓
 
 ```html
-ref="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg" /></a>
+<a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg" /></a>
 ```
 
 <br>
