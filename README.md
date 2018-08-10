@@ -128,6 +128,8 @@ Here's a list of repos that make use of Emoji-Log.
 - [Create-Guten-Block Toolkit →](https://github.com/ahmadawais/create-guten-block/commits/)
 - [VSCode Shades of Purple Theme →](https://github.com/ahmadawais/shades-of-purple-vscode/commits/)
 - [Ahmad Awais GitHub Repos →](https://github.com/ahmadawais) — _Latest repos on this account._
+- [CaptainCore CLI (WordPress Management Toolkit) →](https://github.com/CaptainCore/captaincore-cli/commits/)
+- [CaptainCore GUI (WordPress plugin) →](https://github.com/CaptainCore/captaincore-gui/commits/)
 - **You?!** Add your repo to the list after adding the Emoji-log badge to your readme.
 
 
