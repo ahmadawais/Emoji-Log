@@ -10,7 +10,24 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [v0.5.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.4.0...v0.5.0)
+### RELEASE: [v0.6.0](https://github.com/ahmadawais/Emoji-Log/compare/0.5.0...v0.6.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Utils not needed [`4095d94`](https://github.com/ahmadawais/Emoji-Log/commit/4095d9412e68cfb0957cc90c6f4c41066a7dc981) <br>
+> 👌 for lerna --no-git-tag-version [`76b3ccf`](https://github.com/ahmadawais/Emoji-Log/commit/76b3ccf90a8caf146edba698c74b1afca8a19724) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 bad actors [`ade30e6`](https://github.com/ahmadawais/Emoji-Log/commit/ade30e6175b9eb3609a748f0c99aa5cd9bfe659b) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [0.5.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.4.0...0.5.0)
 
 <br>
 
