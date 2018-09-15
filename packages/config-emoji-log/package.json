@@ -1,0 +1,21 @@
+{
+	"name": "config-emoji-log",
+	"version": "1.0.0",
+	"description": "Emoji log git commit lint configuration.",
+	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadawais/config-emoji-log.git"
+	},
+	"keywords": [
+		"emoji-log",
+		"commitlint",
+		"commitlint-config",
+		"commitlint-config-emoji-log"
+	],
+	"license": "MIT"
+}
