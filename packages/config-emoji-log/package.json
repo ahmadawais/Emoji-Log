@@ -1,6 +1,6 @@
 {
 	"name": "config-emoji-log",
-	"version": "1.0.0",
+	"version": "0.2.0",
 	"description": "Emoji log git commit lint configuration.",
 	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
 	"main": "index.js",
