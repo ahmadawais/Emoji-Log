@@ -1,0 +1,26 @@
+{
+	"name": "emoji-log",
+	"version": "1.0.0",
+	"description": "🚀Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀✅ ]",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadawais/Emoji-Log.git"
+	},
+	"keywords": [
+		"emoji",
+		"Emoji log",
+		"git commit",
+		"git commit log"
+	],
+	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
+	"license": "MIT",
+	"devDependencies": {
+		"@commitlint/cli": "^7.1.2",
+		"husky": "^1.0.0-rc.14"
+	},
+	"husky": {
+		"hooks": {
+			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+		}
+	}
+}
