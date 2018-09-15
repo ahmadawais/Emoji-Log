@@ -17,8 +17,5 @@
 		"commitlint-config",
 		"commitlint-config-emoji-log"
 	],
-	"license": "MIT",
-	"devDependencies": {
-		"@commitlint/utils": "^7.1.2"
-	}
+	"license": "MIT"
 }
