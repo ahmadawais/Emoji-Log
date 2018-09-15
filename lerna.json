@@ -1,0 +1,9 @@
+{
+	"version": "0.0.0",
+	"packages": ["packages/*"],
+	"commands": {
+		"publish": {
+			"message": "🦄 RELEASE: %s"
+		}
+	}
+}

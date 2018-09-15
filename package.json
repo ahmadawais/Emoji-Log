@@ -16,11 +16,33 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@commitlint/cli": "^7.1.2",
-		"husky": "^1.0.0-rc.14"
+		"auto-changelog": "^1.8.0",
+		"husky": "^1.0.0-rc.14",
+		"lerna": "^3.4.0",
+		"release-it": "^7.6.1"
 	},
 	"husky": {
 		"hooks": {
 			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+		}
+	},
+	"scripts": {
+		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
+		"release": "release-it && npx vsce publish",
+		"release-minor": "release-it minor",
+		"release-major": "release-it major",
+		"release-dry": "release-it --dry-run"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": ".clTemplate.hbs",
+		"commitLimit": false,
+		"package": true,
+		"replaceText": {
+			"FIX: ": "",
+			"NEW: ": "",
+			"IMPROVE: ": "",
+			"DOC: ": ""
 		}
 	}
 }
