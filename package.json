@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "emoji-log",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"description": "🚀Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀✅ ]",
 	"repository": {
 		"type": "git",
