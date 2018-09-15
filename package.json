@@ -29,9 +29,9 @@
 	},
 	"scripts": {
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "npx lerna publish && release-it",
-		"release-minor": "release-it minor",
-		"release-major": "release-it major",
+		"release": "lerna publish && release-it",
+		"release-minor": "lerna publish && release-it minor",
+		"release-major": "lerna publish && release-it major",
 		"release-dry": "release-it --dry-run"
 	},
 	"auto-changelog": {
