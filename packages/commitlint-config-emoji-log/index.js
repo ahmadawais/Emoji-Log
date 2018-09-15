@@ -1,5 +1,5 @@
 /**
- * Commit Lint
+ * Commit Lint Config Emoji Log
  *
  * Rules are made up by a name and a configuration array.
  * The configuration array contains:
