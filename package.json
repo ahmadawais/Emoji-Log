@@ -1,6 +1,6 @@
 {
 	"name": "emoji-log",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "🚀Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀✅ ]",
 	"repository": {
 		"type": "git",
@@ -28,7 +28,7 @@
 	},
 	"scripts": {
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "release-it && npx vsce publish",
+		"release": "lerna publish && release-it",
 		"release-minor": "release-it minor",
 		"release-major": "release-it major",
 		"release-dry": "release-it --dry-run"
