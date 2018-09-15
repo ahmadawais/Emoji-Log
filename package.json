@@ -17,7 +17,9 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@commitlint/cli": "^7.1.2",
+		"@commitlint/config-angular": "^7.1.2",
 		"auto-changelog": "^1.8.0",
+		"config-emoji-log": "^0.2.0",
 		"husky": "^1.0.0-rc.14",
 		"lerna": "^3.4.0",
 		"release-it": "^7.6.1"
