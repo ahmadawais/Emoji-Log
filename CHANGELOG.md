@@ -10,7 +10,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [v0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.1...v0.4.0)
+### RELEASE: [v0.5.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.4.0...v0.5.0)
 
 <br>
 
@@ -18,7 +18,11 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.0...0.4.0)
+### RELEASE: [v0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/0.4.0...v0.4.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Better name [`ee4ec4b`](https://github.com/ahmadawais/Emoji-Log/commit/ee4ec4b456f851054704799d56d19c8583d879a7) <br>
 
 <br>
 
@@ -26,7 +30,15 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [v0.3.1](https://github.com/ahmadawais/Emoji-Log/compare/0.4.0...v0.3.1)
+### RELEASE: [0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.1...0.4.0)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [v0.3.1](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.0...v0.3.1)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
