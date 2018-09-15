@@ -10,7 +10,27 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [v0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.0...v0.4.0)
+### RELEASE: [v0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.1...v0.4.0)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [0.4.0](https://github.com/ahmadawais/Emoji-Log/compare/v0.3.0...0.4.0)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [v0.3.1](https://github.com/ahmadawais/Emoji-Log/compare/0.4.0...v0.3.1)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 commitlint-config-emoji-log [`f8694b3`](https://github.com/ahmadawais/Emoji-Log/commit/f8694b304cb6a0ab2b37da4719dce6be6e4f71a2) <br>
 
 <br>
 
