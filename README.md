@@ -39,31 +39,73 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 
 Only use the following Git Commit Messages. Simple and small foot print is the key here.
 
-1. `📦 NEW: IMPERATIVE_MESSAGE_GOES_HERE`
+1. Format: `📦 NEW: <message>`
 	> Use when you add something completely new.
-	> E.g. `📦 NEW: Add Git ignore file`
+	
+	Example:
 
-1. `👌 IMPROVE: IMPERATIVE_MESSAGE_GOES_HERE`
+     ```
+     📦 NEW: Add Git ignore file
+     ```
+   
+---
+
+1. Format: `👌 IMPROVE: <message>`
 	> Use when you improve/enhance piece of code like refactoring etc.
-	> E.g. `👌 IMPROVE: Remote IP API Function`
+	
+	Example:
 
-1. `🐛 FIX: IMPERATIVE_MESSAGE_GOES_HERE`
+     ```
+     👌 IMPROVE: Remote IP API Function
+     ```
+  
+---  
+    
+1. Format: `🐛 FIX: <message>`
 	> Use when you fix a bug — need I say more?
-	> E.g. `🐛 FIX: Case convertor`
+	
+	Example:
 
-1. `📖 DOC: IMPERATIVE_MESSAGE_GOES_HERE`
+     ```
+     🐛 FIX: Case convertor
+     ```
+
+---
+
+1. Format: `📖 DOC: <message>`
 	> Use when you add documentation like `README.md`, or even inline docs.
-	> E.g. `📖 DOC: API Interface Tutorial`
+	
+	Example:
 
+     ```
+     📖 DOC: API Interface Tutorial
+     ```
 
-1. `🚀 RELEASE: IMPERATIVE_MESSAGE_GOES_HERE`
+---
+
+1. Format: `🚀 RELEASE: <message>`
 	> Use when you release a new version.
-	> E.g. `🚀 RELEASE: Version 2.0.0`
+	
+	Example:
+
+     ```
+     🚀 RELEASE: Version 2.0.0
+     ```
+
+---
 
 
-1. `✅ TEST: IMPERATIVE_MESSAGE_GOES_HERE`
+1. Format: `✅ TEST: <message>`
 	> Use when you release a new version.
-	> E.g. `✅ TEST: Mock User Login/Logout`
+	
+	Example:
+
+     ```
+     ✅ TEST: Mock User Login/Logout
+     ```
+
+---
+
 
 _— That's it for now. Nothing more nothing less._
 
