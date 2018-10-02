@@ -21,12 +21,27 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 1. **IMPERATIVE** ↓
 	- Make your Git commit messages imperative.
 	- Write commit message like you're giving an order.
-	- E.g. Use ✅ `Add` instead of ❌ `Added`.
-	- E.g. Use ✅ `Create` instead of ❌ `Creating`.
+	
+	_For Example:_
+	
+	  * Use `✅ Add` instead of `❌ Added`.
+	  * Use `✅ Create` instead of `❌ Creating`.
+	
 1. **RULES** ↓
 	- Small number of categories — easy to memorize.
 	- Nothing more nothing less.
-	- E.g. `📦 NEW`,`👌 IMPROVE`,`🐛 FIX`,`📖 DOC`,`🚀 RELEASE`, and `✅ TEST`
+	
+    _For Example:_
+	
+	* `📦 NEW`
+	* `👌 IMPROVE`
+	* `🐛 FIX`
+	* `📦 NEW`
+	* `📖 DOC`
+	* `🚀 RELEASE`
+	* `✅ TEST`
+	
+	
 1. **ACTIONS** ↓
 	- Make git commits based on actions you take.
 	- Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
@@ -38,6 +53,8 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 ### GETTING STARTED
 
 Only use the following Git Commit Messages. Simple and small foot print is the key here.
+
+---
 
 1. Format: `📦 NEW: <message>`
 	> Use when you add something completely new.
