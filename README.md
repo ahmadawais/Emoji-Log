@@ -117,6 +117,25 @@ function gtst() {
 }
 ```
 
+To install these functions for the fish shell, run the following commands:
+
+```sh
+function gcap; git add .; and git commit -m "$argv"; and git push; end;
+function gnew; gcap "📦 NEW: $argv"; end
+function gimp; gcap "👌 IMPROVE: $argv"; end;
+function gfix; gcap "🐛 FIX: $argv"; end;
+function grlz; gcap "🚀 RELEASE: $argv"; end;
+function gdoc; gcap "📖 DOC: $argv"; end;
+function gtst; gcap "✅ TEST: $argv"; end;
+funcsave gcap
+funcsave gnew
+funcsave gimp
+funcsave gfix
+funcsave grlz
+funcsave gdoc
+funcsave gtst
+```
+
 <br>
 
 ![Using](https://on.ahmda.ws/rP6e/c)
