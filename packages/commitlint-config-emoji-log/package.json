@@ -1,21 +1,21 @@
 {
-	"name": "commitlint-config-emoji-log",
-	"version": "0.6.0",
-	"description": "Emoji log git commitlint configuration.",
-	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
-	"main": "index.js",
-	"files": [
-		"index.js"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ahmadawais/config-emoji-log.git"
-	},
-	"keywords": [
-		"emoji-log",
-		"commitlint",
-		"commitlint-config",
-		"commitlint-config-emoji-log"
-	],
-	"license": "MIT"
+  "name": "commitlint-config-emoji-log",
+  "version": "0.6.0",
+  "description": "Emoji log git commitlint configuration.",
+  "author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadawais/config-emoji-log.git"
+  },
+  "keywords": [
+    "emoji-log",
+    "commitlint",
+    "commitlint-config",
+    "commitlint-config-emoji-log"
+  ],
+  "license": "MIT"
 }

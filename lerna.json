@@ -1,9 +1,9 @@
 {
-	"version": "0.6.0",
-	"packages": ["packages/*"],
-	"command": {
-		"publish": {
-			"message": "🦄 RELEASE: %s"
-		}
-	}
+  "version": "0.6.0",
+  "packages": ["packages/*"],
+  "command": {
+    "publish": {
+      "message": "🦄 RELEASE: %s"
+    }
+  }
 }

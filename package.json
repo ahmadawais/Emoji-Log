@@ -1,55 +1,55 @@
 {
-	"private": true,
-	"name": "emoji-log",
-	"version": "0.7.0",
-	"description": "🚀Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀✅ ]",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ahmadawais/Emoji-Log.git"
-	},
-	"keywords": [
-		"emoji",
-		"Emoji log",
-		"git commit",
-		"git commit log"
-	],
-	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
-	"license": "MIT",
-	"devDependencies": {
-		"@commitlint/cli": "^7.1.2",
-		"auto-changelog": "^1.8.0",
-		"commitlint-config-emoji-log": "^0.4.0",
-		"husky": "^1.0.0-rc.14",
-		"lerna": "^3.4.0",
-		"release-it": "^7.6.1"
-	},
-	"commitlint": {
-		"extends": [
-			"emoji-log"
-		]
-	},
-	"husky": {
-		"hooks": {
-			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-		}
-	},
-	"scripts": {
-		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "lerna publish --no-git-tag-version && release-it",
-		"release-minor": "lerna publish && release-it minor",
-		"release-major": "lerna publish && release-it major",
-		"release-dry": "release-it --dry-run"
-	},
-	"auto-changelog": {
-		"output": "CHANGELOG.md",
-		"template": ".clTemplate.hbs",
-		"commitLimit": false,
-		"package": true,
-		"replaceText": {
-			"FIX: ": "",
-			"NEW: ": "",
-			"IMPROVE: ": "",
-			"DOC: ": ""
-		}
-	}
+  "private": true,
+  "name": "emoji-log",
+  "version": "0.7.0",
+  "description": "🚀Emoji-Log — An Emoji Git commit log messages spec standard. [ 📦👌🐛📖🚀✅ ]",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadawais/Emoji-Log.git"
+  },
+  "keywords": [
+    "emoji",
+    "Emoji log",
+    "git commit",
+    "git commit log"
+  ],
+  "author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^7.1.2",
+    "auto-changelog": "^1.8.0",
+    "commitlint-config-emoji-log": "^0.4.0",
+    "husky": "^1.0.0-rc.14",
+    "lerna": "^3.4.0",
+    "release-it": "^7.6.1"
+  },
+  "commitlint": {
+    "extends": [
+      "emoji-log"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "scripts": {
+    "log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
+    "release": "lerna publish --no-git-tag-version && release-it",
+    "release-minor": "lerna publish && release-it minor",
+    "release-major": "lerna publish && release-it major",
+    "release-dry": "release-it --dry-run"
+  },
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": ".clTemplate.hbs",
+    "commitLimit": false,
+    "package": true,
+    "replaceText": {
+      "FIX: ": "",
+      "NEW: ": "",
+      "IMPROVE: ": "",
+      "DOC: ": ""
+    }
+  }
 }
