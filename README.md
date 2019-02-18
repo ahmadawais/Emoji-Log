@@ -139,21 +139,23 @@ funcsave gtst
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ```sh
-# Git Commit, Add all and Push — in one step.
-cap = "!f() { git add .; git commit -m \"$@\"; git push; }; f"
+# Make sure you're adding under the [alias] block.
+[alias] 
+  # Git Commit, Add all and Push — in one step.
+  cap = "!f() { git add .; git commit -m \"$@\"; git push; }; f"
 
-# NEW.
-new = "!f() { git cap \"📦 NEW: $@\"; }; f"
-# IMPROVE.
-imp = "!f() { git cap \"👌 IMPROVE: $@\"; }; f"
-# FIX.
-fix = "!f() { git cap \"🐛 FIX: $@\"; }; f"
-# RELEASE.
-rlz = "!f() { git cap \"🚀 RELEASE: $@\"; }; f"
-# DOC.
-doc = "!f() { git cap \"📖 DOC: $@\"; }; f"
-# TEST.
-tst = "!f() { git cap \"✅ TEST: $@\"; }; f"
+  # NEW.
+  new = "!f() { git cap \"📦 NEW: $@\"; }; f"
+  # IMPROVE.
+  imp = "!f() { git cap \"👌 IMPROVE: $@\"; }; f"
+  # FIX.
+  fix = "!f() { git cap \"🐛 FIX: $@\"; }; f"
+  # RELEASE.
+  rlz = "!f() { git cap \"🚀 RELEASE: $@\"; }; f"
+  # DOC.
+  doc = "!f() { git cap \"📖 DOC: $@\"; }; f"
+  # TEST.
+  tst = "!f() { git cap \"✅ TEST: $@\"; }; f"
 ```
 
 <br>
