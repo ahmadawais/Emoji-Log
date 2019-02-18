@@ -139,7 +139,8 @@ funcsave gtst
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ```sh
-[alias]
+# Make sure you're adding under the [alias] block.
+[alias] 
   # Git Commit, Add all and Push — in one step.
   cap = "!f() { git add .; git commit -m \"$@\"; git push; }; f"
 
