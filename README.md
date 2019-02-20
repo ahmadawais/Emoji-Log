@@ -72,7 +72,16 @@ _— That's it for now. Nothing more nothing less._
 
 ![More](https://on.ahmda.ws/orsm/c)
 
-#### THE WORKFLOW
+#### THE WORKFLOW & MEANINGS
+
+I'd like to share what each of these emojis mean. 
+
+- `📦 NEW:` Emoji meaning: A "package emoji" — which can contain new stuff.
+- `👌 IMPROVE:` Emoji meaning: An "OK Hand emoji" — which is meant to appreciate an improvement.
+- `🐛 FIX:` Emoji meaning: A "bug emoji" — which means there was a bug that got fixed.
+- `📖 DOCS:` Emoji meaning: A "book emoji" — which means documentation or notes just like in a book.
+- `🚀 RELEASE:` Emoji meaning: A "rocket emoji" — which is meant to show a new release/launch.
+- `✅ TEST:` Emoji meaning: A "check emoji" — which says some test were run successfully.
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
