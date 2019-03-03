@@ -62,7 +62,7 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
 
 
 1. `✅ TEST: IMPERATIVE_MESSAGE_GOES_HERE`
-    > Use when you release a new version.
+    > Use when it's related to testing.
     > E.g. `✅ TEST: Mock User Login/Logout`
 
 _— That's it for now. Nothing more nothing less._
