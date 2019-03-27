@@ -257,12 +257,12 @@ This will give the following text expander keywords for the Emoji-Log:
 
 | Keyword | Snippet |
 | --- | --- |
-| `;new` | 📦 NEW: |
-| `;improve` | 👌 IMPROVE: |
-| `;fix` | 🐛 FIX: |
-| `;release` | 🚀 RELEASE: |
-| `;doc` | 📖 DOC: |
-| `;test` | ✅ TEST: |
+| `;gnew` | 📦 NEW: |
+| `;gimp` | 👌 IMPROVE: |
+| `;gfix` | 🐛 FIX: |
+| `;grlz` | 🚀 RELEASE: |
+| `;gdoc` | 📖 DOC: |
+| `;gtst` | ✅ TEST: |
 
 To edit the `;` prefix to your preferred expansion flag, double click right click the Emoji-Log Collection in _Alfred Settings » Features » Snippets_.
 
