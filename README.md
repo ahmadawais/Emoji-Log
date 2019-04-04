@@ -5,7 +5,7 @@
 
 </h1>
 
-> After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`. 
+> After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`.
 
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 
@@ -74,7 +74,7 @@ _— That's it for now. Nothing more nothing less._
 
 #### THE WORKFLOW & MEANINGS
 
-I'd like to share what each of these emojis mean. 
+I'd like to share what each of these emojis mean.
 
 - `📦 NEW:` Emoji meaning: A "package emoji" — which can contain new stuff.
 - `👌 IMPROVE:` Emoji meaning: An "OK Hand emoji" — which is meant to appreciate an improvement.
@@ -149,7 +149,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ```sh
 # Make sure you're adding under the [alias] block.
-[alias] 
+[alias]
   # Git Commit, Add all and Push — in one step.
   cap = "!f() { git add .; git commit -m \"$@\"; git push; }; f"
 
@@ -238,6 +238,33 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ```html
 <a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg" /></a>
 ```
+
+<br>
+
+![AlfredSnippets](https://on.ahmda.ws/05bd88/c)
+
+### Alfred Snippets
+
+[Alfred](https://www.alfredapp.com/) [PowerPack](https://www.alfredapp.com/powerpack/) users can use the Snippets feature to quickly call Emoji-Log, or use the text expand feature for even quicker creation.
+
+To setup:
+
+1. Have Alfred 3 with PowerPack installed
+2. For auto expansion, in _Alfred Settings » Features » Snippets_ ensure the "Automatically expand snippets by Keyword" box is checked
+3. Download & open [`Emoji-Log.alfredsnippets`](Emoji-Log.alfredsnippets), deselecting "Strip snippets of 'auto expand' flag" when prompted
+
+This will give the following text expander keywords for the Emoji-Log:
+
+| Keyword | Snippet |
+| --- | --- |
+| `;gnew` | 📦 NEW: |
+| `;gimp` | 👌 IMPROVE: |
+| `;gfix` | 🐛 FIX: |
+| `;grlz` | 🚀 RELEASE: |
+| `;gdoc` | 📖 DOC: |
+| `;gtst` | ✅ TEST: |
+
+To edit the `;` prefix to your preferred expansion flag, double click right click the Emoji-Log Collection in _Alfred Settings » Features » Snippets_.
 
 <br>
 
