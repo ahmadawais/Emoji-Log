@@ -241,7 +241,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 
 <br>
 
-@TODO graphic needed here.
+![AlfredSnippets](https://on.ahmda.ws/05bd88/c)
 
 ### Alfred Snippets
 
