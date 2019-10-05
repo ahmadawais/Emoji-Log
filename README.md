@@ -145,7 +145,7 @@ funcsave gdoc
 funcsave gtst
 ```
 
-If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
+If you prefer, you can paste these aliases directly in your `~/.gitconfig` file by using the command `notepad C:/Users/{name}/.gitconfig`, it will open a notepad editor for you containing git configurations.
 
 ```sh
 # Make sure you're adding under the [alias] block.
@@ -154,19 +154,32 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
   cap = "!f() { git add .; git commit -m \"$@\"; git push; }; f"
 
   # NEW.
-  new = "!f() { git cap \"📦 NEW: $@\"; }; f"
+  new = "!f() { git cap \"📦  NEW: $@\"; }; f"
   # IMPROVE.
-  imp = "!f() { git cap \"👌 IMPROVE: $@\"; }; f"
+  imp = "!f() { git cap \"👌  IMPROVE: $@\"; }; f"
   # FIX.
-  fix = "!f() { git cap \"🐛 FIX: $@\"; }; f"
+  fix = "!f() { git cap \"🐛  FIX: $@\"; }; f"
   # RELEASE.
-  rlz = "!f() { git cap \"🚀 RELEASE: $@\"; }; f"
+  rlz = "!f() { git cap \"🚀  RELEASE: $@\"; }; f"
   # DOC.
-  doc = "!f() { git cap \"📖 DOC: $@\"; }; f"
+  doc = "!f() { git cap \"📖  DOC: $@\"; }; f"
   # TEST.
-  tst = "!f() { git cap \"✅ TEST: $@\"; }; f"
+  tst = "!f() { git cap \"✅  TEST: $@\"; }; f"
 ```
 
+After saving that, you can then use the commands like `git new "Add graph module"`, it will do staging all files, committing that with the passed message & finally push it to your remote repo. If you just need to configure `EMOJI-LOG` for commits, so you can just modify the above snippet `cap` command like that, all the other code will be same:
+
+```sh
+  # Git Commit.
+  cap = "!f() { git commit -m \"$@\"; }; f"
+```
+That's it, now use the commands simply to add wonderful commits using `EMOJI-LOG`, 
+```sh
+git fix 'Fix the scrolling issue'
+[master ec4ff7f] 🐛 FIX: Fix the scrolling issue
+ 1 file changed, 9 insertions(+)
+ create mode 100644 index.js
+```
 <br>
 
 ![Using](https://on.ahmda.ws/rP6e/c)
