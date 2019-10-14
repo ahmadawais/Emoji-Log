@@ -125,6 +125,12 @@ function gtst() {
     gcap "✅ TEST: $@"
 }
 ```
+For Linux user who use the graphical program GIMP, use this alternative IMPROVE function:
+```
+function gim() {
+    gcap "👌 IMPROVE: $@"
+}
+```
 
 To install these functions for the fish shell, run the following commands:
 
@@ -143,6 +149,10 @@ funcsave gfix
 funcsave grlz
 funcsave gdoc
 funcsave gtst
+```
+Alternative function for Linux users for IMPROVE in fish shell:
+```
+function gim; gcap "👌 IMPROVE: $argv"; end;
 ```
 
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
