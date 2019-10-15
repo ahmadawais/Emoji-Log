@@ -28,7 +28,7 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
     - Nothing more nothing less.
     - E.g. `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
 1. **ACTIONS** ↓
-    - Make git commits based on actions you take.
+    - Make git commits on the basis of actions you take.
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
 <br>
 
