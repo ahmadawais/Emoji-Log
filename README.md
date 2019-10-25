@@ -21,8 +21,8 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 1. **IMPERATIVE** ↓
     - Make your Git commit messages imperative.
     - Write commit message like you're giving an order.
-    - E.g., Use ✅ `Add` instead of ❌ `Added`.
-    - E.g., Use ✅ `Create` instead of ❌ `Creating`.
+    - E.g., Use ✅ mark`Add` instead of ❌ `Added`.
+    - E.g., Use ✅ mark`Create` instead of ❌ `Creating`.
 1. **RULES** ↓
     - A small number of categories — easy to memorize.
     - Nothing more nothing less.
@@ -76,7 +76,7 @@ _— That's it for now. Nothing more nothing less._
 
 I'd like to share what each of these emojis mean.
 
-- `📦 NEW:` Emoji meaning: A "package emoji" — which can contain new stuff.
+- `📦 NEW:` Emoji meaning: A "emoji package" — which can contain new stuff.
 - `👌 IMPROVE:` Emoji meaning: An "OK Hand emoji" — which is meant to appreciate an improvement.
 - `🐛 FIX:` Emoji meaning: A "bug emoji" — which means there was a bug that got fixed.
 - `📖 DOCS:` Emoji meaning: A "book emoji" — which means documentation or notes just like in a book.
@@ -107,7 +107,7 @@ function gimp() {
 
 # FIX.
 function gfix() {
-    gcap "🐛 FIX: $@"
+    gcap "🐜 FIX: $@"
 }
 
 # RELEASE.
@@ -124,15 +124,17 @@ function gdoc() {
 function gtst() {
     gcap "✅ TEST: $@"
 }
+
+
 ```
 
 To install these functions for the fish shell, run the following commands:
 
 ```sh
 function gcap; git add .; and git commit -m "$argv"; and git push; end;
-function gnew; gcap "📦 NEW: $argv"; end
+function gnew; gcap "📦 NEW : $argv"; end
 function gimp; gcap "👌 IMPROVE: $argv"; end;
-function gfix; gcap "🐛 FIX: $argv"; end;
+function gfix; gcap "🐜 FIX: $argv"; end;
 function grlz; gcap "🚀 RELEASE: $argv"; end;
 function gdoc; gcap "📖 DOC: $argv"; end;
 function gtst; gcap "✅ TEST: $argv"; end;
@@ -158,7 +160,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
   # IMPROVE.
   imp = "!f() { git cap \"👌 IMPROVE: $@\"; }; f"
   # FIX.
-  fix = "!f() { git cap \"🐛 FIX: $@\"; }; f"
+  fix = "!f() { git cap \"🐜 FIX: $@\"; }; f"
   # RELEASE.
   rlz = "!f() { git cap \"🚀 RELEASE: $@\"; }; f"
   # DOC.
