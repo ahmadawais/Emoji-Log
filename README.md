@@ -15,7 +15,7 @@
 
 ### PHILOSOPHY
 
-I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, all of that is inherently dull and sometimes boring. Emoji (which is, in fact, the plural of emoji) helps me add colors and emotions to the mix. Nothing wrong if you want to attach feelings to this 2D flat text-based world of code. I found out that instead of memorizing [hundreds of emoji](https://gitmoji.carloscuesta.me/) it's better to keep the categories small and general.
+I like `emoji`. I like ’em a lot. Programming, code, geeks/nerds, open source, all of that is inherently dull and sometimes boring. Emoji (which is, in fact, the plural of emoji) helps me add colors and emotions to the mix. Nothing wrong if you want to attach feelings to this 2D flat text-based world of code. I found out that instead of memorizing [hundreds of emoji](https://gitmoji.carloscuesta.me/) it's better to keep the categories small and general.
 
 
 1. **IMPERATIVE** ↓
@@ -173,7 +173,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ### USING `EMOJI-LOG`
 
-Here's a list of repos that make use of Emoji-Log.
+Here's a list of repos that make use of `Emoji-Log`.
 
 - [Create-Guten-Block Toolkit →](https://github.com/ahmadawais/create-guten-block/commits/)
 - [VSCode Shades of Purple Theme →](https://github.com/ahmadawais/shades-of-purple-vscode/commits/)
@@ -253,7 +253,7 @@ To setup:
 2. For auto expansion, in _Alfred Settings » Features » Snippets_ ensure the "Automatically expand snippets by Keyword" box is checked
 3. Download & open [`Emoji-Log.alfredsnippets`](Emoji-Log.alfredsnippets), deselecting "Strip snippets of 'auto expand' flag" when prompted
 
-This will give the following text expander keywords for the Emoji-Log:
+This will give the following text expander keywords for the `Emoji-Log`:
 
 | Keyword | Snippet |
 | --- | --- |
