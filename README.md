@@ -105,6 +105,11 @@ function gimp() {
     gcap "👌 IMPROVE: $@"
 }
 
+Alternative function for Linux users who use the graphical program GIMP**:
+function gim() {
+    gcap "👌 IMPROVE: $@"
+}
+
 # FIX.
 function gfix() {
     gcap "🐛 FIX: $@"
@@ -125,7 +130,6 @@ function gtst() {
     gcap "✅ TEST: $@"
 }
 ```
-
 To install these functions for the fish shell, run the following commands:
 
 ```sh
@@ -139,12 +143,13 @@ function gtst; gcap "✅ TEST: $argv"; end;
 funcsave gcap
 funcsave gnew
 funcsave gimp
+Alternative function for Linux users for IMPROVE in fish shell:
+funcsave gim; gcap "👌 IMPROVE: $argv"; end;
 funcsave gfix
 funcsave grlz
 funcsave gdoc
 funcsave gtst
 ```
-
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ```sh
