@@ -26,8 +26,8 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 1. **RULES** ↓
     - A small number of categories — easy to memorize.
     - Nothing more nothing less.
-    - E.g. `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
-1. **ACTIONS** ↓
+    - E.g. `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `🤖 TEST`
+2. **ACTIONS** ↓
     - Make git commits based on actions you take.
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
 <br>
@@ -61,9 +61,9 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
     > E.g. `🚀 RELEASE: Version 2.0.0`
 
 
-1. `✅ TEST: IMPERATIVE_MESSAGE_GOES_HERE`
+1. `🤖 TEST: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when it's related to testing.
-    > E.g. `✅ TEST: Mock User Login/Logout`
+    > E.g. `🤖 TEST: Mock User Login/Logout`
 
 _— That's it for now. Nothing more nothing less._
 
@@ -81,10 +81,9 @@ I'd like to share what each of these emojis mean.
 - `🐛 FIX:` Emoji meaning: A "bug emoji" — which means there was a bug that got fixed.
 - `📖 DOCS:` Emoji meaning: A "book emoji" — which means documentation or notes just like in a book.
 - `🚀 RELEASE:` Emoji meaning: A "rocket emoji" — which is meant to show a new release/launch.
-- `✅ TEST:` Emoji meaning: A "check emoji" — which says some test were run successfully.
+- `🤖 TEST:` Emoji meaning: A "check emoji" — which says some test were run successfully.
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
-
 
 ```sh
 #.# Better Git Logs.
@@ -122,7 +121,7 @@ function gdoc() {
 
 # TEST.
 function gtst() {
-    gcap "✅ TEST: $@"
+    gcap "🤖 TEST: $@"
 }
 ```
 
@@ -135,7 +134,7 @@ function gimp; gcap "👌 IMPROVE: $argv"; end;
 function gfix; gcap "🐛 FIX: $argv"; end;
 function grlz; gcap "🚀 RELEASE: $argv"; end;
 function gdoc; gcap "📖 DOC: $argv"; end;
-function gtst; gcap "✅ TEST: $argv"; end;
+function gtst; gcap "🤖 TEST: $argv"; end;
 funcsave gcap
 funcsave gnew
 funcsave gimp
@@ -164,7 +163,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
   # DOC.
   doc = "!f() { git cap \"📖 DOC: $@\"; }; f"
   # TEST.
-  tst = "!f() { git cap \"✅ TEST: $@\"; }; f"
+  tst = "!f() { git cap \"🤖 TEST: $@\"; }; f"
 ```
 
 <br>
@@ -201,6 +200,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
+
 - **HTML** ↓
 
 ```html
@@ -217,6 +217,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
+
 - **HTML** ↓
 
 ```html
@@ -233,6 +234,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ```markdown
 [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 ```
+
 - **HTML** ↓
 
 ```html
@@ -255,14 +257,14 @@ To setup:
 
 This will give the following text expander keywords for the Emoji-Log:
 
-| Keyword | Snippet |
-| --- | --- |
-| `;gnew` | 📦 NEW: |
+| Keyword |  Snippet   |
+| ------- | ---------- |
+| `;gnew` | 📦 NEW:     |
 | `;gimp` | 👌 IMPROVE: |
-| `;gfix` | 🐛 FIX: |
+| `;gfix` | 🐛 FIX:     |
 | `;grlz` | 🚀 RELEASE: |
-| `;gdoc` | 📖 DOC: |
-| `;gtst` | ✅ TEST: |
+| `;gdoc` | 📖 DOC:     |
+| `;gtst` | 🤖 TEST:    |
 
 To edit the `;` prefix to your preferred expansion flag, double click right click the Emoji-Log Collection in _Alfred Settings » Features » Snippets_.
 
@@ -273,6 +275,7 @@ To edit the `;` prefix to your preferred expansion flag, double click right clic
 ## [SUPPORT OPEN SOURCE PROJECTS](https://pay.paddle.com/checkout/515568) 🎩
 
 If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
+
 - 🚀  $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
 - 🔰  $49.99 — [Support half an hour maintenance →](https://pay.paddle.com/checkout/527253)
 - ☕️  $9.99 — [Buy us lunch or coffee to keep us trucking #OpenSource →](https://pay.paddle.com/checkout/527254)
@@ -283,8 +286,8 @@ If you'd like us to keep producing professional free and open source software (F
 
 ## LICENSE & ATTRIBUTION
 
-MIT © [Ahmad Awais](https://AhmadAwais.com/).
-
-Thanks to [Munawar](https://munwr.com/) for making awesome badges for this project. This FOSS (free and open source software) project is updated and maintained with the help of excellent businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible. _What/How? [Read more about it →](https://WPCouple.com/partners)_
+- MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
+- [Code of Conduct](code-of-conduct.md)
+- [Munawar](https://munwr.com/) for making awesome badges
 
 **_Feel free to say 👋 on Twitter [@MrAhmadAwais →](https://twitter.com/mrahmadawais/)_**
