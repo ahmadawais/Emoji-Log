@@ -16,12 +16,10 @@
 	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
 	"license": "MIT",
 	"devDependencies": {
-		"@commitlint/cli": "^7.1.2",
-		"auto-changelog": "^1.8.0",
-		"commitlint-config-emoji-log": "^0.4.0",
-		"husky": "^1.0.0-rc.14",
-		"lerna": "^3.4.0",
-		"release-it": "^7.6.1"
+		"@commitlint/cli": "^8.3.5",
+		"commitlint-config-emoji-log": "^0.7.0",
+		"husky": "^4.2.1",
+		"lerna": "^3.20.2"
 	},
 	"commitlint": {
 		"extends": [
