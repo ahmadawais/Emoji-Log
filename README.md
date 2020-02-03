@@ -7,7 +7,7 @@
 
 > After building [hundreds of open source software](https://github.com/ahmadawais) I've ended up inventing a git commit log standard called `EMOJI-LOG`.
 
-[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
+[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](./../../)
 
 <br>
 
@@ -32,8 +32,7 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
 <br>
 
-
-![Start](https://on.ahmda.ws/osd3/c)
+[![Start](https://on.ahmda.ws/osd3/c)](./../../)
 
 ### GETTING STARTED
 
@@ -67,10 +66,9 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
 
 _— That's it for now. Nothing more nothing less._
 
-
 <br>
 
-![More](https://on.ahmda.ws/orsm/c)
+[![More](https://on.ahmda.ws/orsm/c)](./../../)
 
 #### THE WORKFLOW & MEANINGS
 
@@ -168,7 +166,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 <br>
 
-![Using](https://on.ahmda.ws/rP6e/c)
+[![Using](https://on.ahmda.ws/rP6e/c)](./../../)
 
 ### USING `EMOJI-LOG`
 
@@ -181,10 +179,9 @@ Here's a list of repos that make use of Emoji-Log.
 - [CaptainCore GUI (WordPress plugin) →](https://github.com/CaptainCore/captaincore-gui/commits/)
 - **You?!** Add your repo to the list after adding the Emoji-log badge to your readme.
 
-
 <br>
 
-![badge](https://on.ahmda.ws/rOMZ/c)
+[![badge](https://on.ahmda.ws/rOMZ/c)](./../../)
 
 ### `EMOJI-LOG` BADGE COLLECTION
 
@@ -243,7 +240,7 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 
 <br>
 
-![AlfredSnippets](https://on.ahmda.ws/05bd88/c)
+[![AlfredSnippets](https://on.ahmda.ws/05bd88/c)](./../../)
 
 ### Alfred Snippets
 
@@ -270,24 +267,39 @@ To edit the `;` prefix to your preferred expansion flag, double click right clic
 
 <br>
 
-![Hello](https://on.ahmda.ws/os6O/c)
+[![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](./../../)
 
-## [SUPPORT OPEN SOURCE PROJECTS](https://pay.paddle.com/checkout/515568) 🎩
+## Sponsor
 
-If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
+Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
 
-- 🚀  $99.99 — [Support for one hour or more →](https://pay.paddle.com/checkout/515568)
-- 🔰  $49.99 — [Support half an hour maintenance →](https://pay.paddle.com/checkout/527253)
-- ☕️  $9.99 — [Buy us lunch or coffee to keep us trucking #OpenSource →](https://pay.paddle.com/checkout/527254)
+- 🌟  **$9.99/month (recommended)** ❯ [Two cups of Caffè latte (coffee) every month →](https://pay.paddle.com/checkout/540217)
+- 🚀  **$99.99 (one-time sponsor)** ❯ [Support an hour of open-source code →](https://pay.paddle.com/checkout/515568)
+- 🔰  **$49.99 (one-time sponsor)** ❯ [Support an hour of maintenance →](https://pay.paddle.com/checkout/527253)
+- ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee →](https://pay.paddle.com/checkout/527254)
 
 <br>
 
-![Thanks](https://on.ahmda.ws/orkW/c)
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 
-## LICENSE & ATTRIBUTION
+## License & Conduct
 
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
 - [Code of Conduct](code-of-conduct.md)
 - [Munawar](https://munwr.com/) for making awesome badges
 
-**_Feel free to say 👋 on Twitter [@MrAhmadAwais →](https://twitter.com/mrahmadawais/)_**
+<br>
+
+[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
+
+## Connect
+
+<div align="left">
+    <p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To stay up to date on free & open-source software</small></p>
+    <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To get #OneDevMinute daily hot tips & trolls</small></p>
+    <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&colorA=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> To tech talks & #OneDevMinute videos</small></p>
+    <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
+    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+</div>
+
+<br>
