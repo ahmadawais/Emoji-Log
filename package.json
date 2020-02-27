@@ -32,7 +32,7 @@
 		}
 	},
 	"scripts": {
-		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Changelog' && git push",
+		"log": "auto-changelog && git add . && git ci -m '📖 DOC: Changelog' && git push",
 		"release": "lerna publish --no-git-tag-version && release-it",
 		"release-minor": "lerna publish && release-it minor",
 		"release-major": "lerna publish && release-it major",
