@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://on.ahmda.ws/pXeE/c" />
+  <a href="https://github.com/ahmadawais/Emoji-Log"><img src="https://on.ahmda.ws/pXeE/c" /></a>
 
 `EMOJI-LOG`
 
