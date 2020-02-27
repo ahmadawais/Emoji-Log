@@ -1,6 +1,6 @@
 {
 	"name": "commitlint-config-emoji-log",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"description": "Emoji log git commitlint configuration.",
 	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
 	"main": "index.js",
