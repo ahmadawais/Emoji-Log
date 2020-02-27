@@ -34,6 +34,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
+> 🐛 Commit msg [`8fd1dbf`](https://github.com/ahmadawais/Emoji-Log/commit/8fd1dbf8bdf129aa0b704b7753c06abdf18bcbf0) <br>
 > 🐛 Grammar Lingo [`ee576cd`](https://github.com/ahmadawais/Emoji-Log/commit/ee576cdcccb6e8fa98ab58494fa22c76847922cb) <br>
 > 🐛 Lerna [`3eb58ec`](https://github.com/ahmadawais/Emoji-Log/commit/3eb58ec4247f7e67338815269261e481aeb50acb) <br>
 > 🐛 Release commit [`2e071f8`](https://github.com/ahmadawais/Emoji-Log/commit/2e071f8b00df3cdf1c54d9fd1d071867ddb2e742) <br>
