@@ -85,7 +85,7 @@ I'd like to share what each of these emojis mean.
 - `📖 DOCS:` Emoji meaning: A "book emoji" — which means documentation or notes just like in a book.
 - `🚀 RELEASE:` Emoji meaning: A "rocket emoji" — which is meant to show a new release/launch.
 - `🤖 TEST:` Emoji meaning: A "robot emoji" — which says some test were run successfully.
-- `‼️ BREAKING:` Emoji meaning: A "bangbang emoji" — which attracts readers attention to a breaking change.
+- `‼️ BREAKING:` Emoji meaning: A "bangbang emoji" — which attracts attention to a breaking change.
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
