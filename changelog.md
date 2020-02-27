@@ -22,17 +22,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 📦 FOSS Sponsor [`8707387`](https://github.com/ahmadawais/Emoji-Log/commit/8707387a626e743b883aace8ba610e2eed7d7178) <br>
 > 📦 Link [`07fde48`](https://github.com/ahmadawais/Emoji-Log/commit/07fde481c63a78016754302d34e409a981f74ba6) <br>
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=239D58)
 
 > 👌 Dependencies [`69f0b25`](https://github.com/ahmadawais/Emoji-Log/commit/69f0b25d168dcddbad87e379e62ca7db0f5a27e2) <br>
 > 👌 Changelog [`34a6786`](https://github.com/ahmadawais/Emoji-Log/commit/34a678655accaad88daaa8310f813895346f5414) <br>
 > 👌 Lingo [`999b1b9`](https://github.com/ahmadawais/Emoji-Log/commit/999b1b9db9cc9eb6e14bbd0eca75fc45e798bc90) <br>
 > 👌 Links [`341f219`](https://github.com/ahmadawais/Emoji-Log/commit/341f2190fb362575564bc676a7841f4d25848538) <br>
 > 👌 Fish shell installation [`fb117e2`](https://github.com/ahmadawais/Emoji-Log/commit/fb117e250fc30165cad91c582b02457d218e1560) <br>
+> 👌 Colors [`9880317`](https://github.com/ahmadawais/Emoji-Log/commit/98803172d31a247de014e93cca95faf550dd558e) <br>
 > 👌 Message [`83783cc`](https://github.com/ahmadawais/Emoji-Log/commit/83783cc495f103b57e6705b5b7b8d54860281095) <br>
 > 👌 Lower-case names [`50b54a7`](https://github.com/ahmadawais/Emoji-Log/commit/50b54a703b3f1eaa3dd03d35f806b3e001b8d9d7) <br>
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=E28700)
 
 > 🐛 Commit msg [`8fd1dbf`](https://github.com/ahmadawais/Emoji-Log/commit/8fd1dbf8bdf129aa0b704b7753c06abdf18bcbf0) <br>
 > 🐛 Grammar Lingo [`ee576cd`](https://github.com/ahmadawais/Emoji-Log/commit/ee576cdcccb6e8fa98ab58494fa22c76847922cb) <br>
@@ -45,6 +46,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 >  📖 Emojis meaning [`0e0fc04`](https://github.com/ahmadawais/Emoji-Log/commit/0e0fc04be2ce100eaac129222cf04e4cc33f0d85) <br>
 >  📖 Alias block notice [`be97f3a`](https://github.com/ahmadawais/Emoji-Log/commit/be97f3a099e8a45e8af546cc5489b13f03fdd3b1) <br>
 >  📖 Linkify the name [`dd7e914`](https://github.com/ahmadawais/Emoji-Log/commit/dd7e914e30d5f50b8b6606d1804a687dc5c6e3ea) <br>
+> 📖 Changelog [`3188fee`](https://github.com/ahmadawais/Emoji-Log/commit/3188feec5f4957c3a94c002090d802e972a634f7) <br>
 
 <br>
 
@@ -54,7 +56,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### RELEASE: [0.7.0](https://github.com/ahmadawais/Emoji-Log/compare/0.6.0...0.7.0)
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=239D58)
 
 > 👌 0.6 version synx [`01c9e95`](https://github.com/ahmadawais/Emoji-Log/commit/01c9e9539a8d5b5f1b5fa8ebda55352e48753af7) <br>
 > 👌 description [`8197f34`](https://github.com/ahmadawais/Emoji-Log/commit/8197f3477968736626235809f58e8fa64fd3bb90) <br>
@@ -68,12 +70,12 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### RELEASE: [0.6.0](https://github.com/ahmadawais/Emoji-Log/compare/0.5.0...0.6.0)
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=239D58)
 
 > 👌 Utils not needed [`4095d94`](https://github.com/ahmadawais/Emoji-Log/commit/4095d9412e68cfb0957cc90c6f4c41066a7dc981) <br>
 > 👌 for lerna --no-git-tag-version [`76b3ccf`](https://github.com/ahmadawais/Emoji-Log/commit/76b3ccf90a8caf146edba698c74b1afca8a19724) <br>
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=E28700)
 
 > 🐛 bad actors [`ade30e6`](https://github.com/ahmadawais/Emoji-Log/commit/ade30e6175b9eb3609a748f0c99aa5cd9bfe659b) <br>
 
@@ -129,7 +131,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 > 📦 conventional-changelog-lint-config-emoji-log [`544923b`](https://github.com/ahmadawais/Emoji-Log/commit/544923bbdf4a534ff4effad44438f20fa34f7bc7) <br>
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=E28700)
 
 > 🐛 name [`35205e1`](https://github.com/ahmadawais/Emoji-Log/commit/35205e109c928aa4677366b030ff0e0946bcec2c) <br>
 
@@ -154,7 +156,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 📦 Changelog [`6696105`](https://github.com/ahmadawais/Emoji-Log/commit/669610519788fa6e3891960058592dbb9b13d252) <br>
 > 📦 config for emoji log [`ccec50a`](https://github.com/ahmadawais/Emoji-Log/commit/ccec50ae77aeb7a20bd90542be197aae8947ebb3) <br>
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=E28700)
 
 > 🐛 Lerna commands [`89414c2`](https://github.com/ahmadawais/Emoji-Log/commit/89414c2889c36e0b615633a1d9453aae195ad1dd) <br>
 
@@ -183,7 +185,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 📦 Badges [`033a03b`](https://github.com/ahmadawais/Emoji-Log/commit/033a03b39b8c0234a98f476e5a5a01a1b2f61aa9) <br>
 > 📦 Badges [`99b3a78`](https://github.com/ahmadawais/Emoji-Log/commit/99b3a786d836ad5a65ac7467c0dbb3deedb1a066) <br>
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=239D58)
 
 > 👌 scripts [`7bddb58`](https://github.com/ahmadawais/Emoji-Log/commit/7bddb580602d70cd4d3fdcd70e355d83b2f77b6a) <br>
 > 👌 Git Ignores [`f0ba104`](https://github.com/ahmadawais/Emoji-Log/commit/f0ba104d48fd441691e4c7241c56af2b854e6320) <br>
@@ -198,7 +200,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 👌 testing commit lint [`f5150fe`](https://github.com/ahmadawais/Emoji-Log/commit/f5150fe847431cadc1ba2acd531d17edaf26e4d7) <br>
 > 👌 Rename [`64a1b25`](https://github.com/ahmadawais/Emoji-Log/commit/64a1b2565c998c0313e68b082b966c14be3c886b) <br>
 
-![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=E28700)
 
 > 🐛 Badges code [`e9cf83d`](https://github.com/ahmadawais/Emoji-Log/commit/e9cf83daff3e5843cc1ac0594d7223315228fb5a) <br>
 > 🐛 Badges [`ca8a7a5`](https://github.com/ahmadawais/Emoji-Log/commit/ca8a7a580a3c712fb6f75b69af1cc7c71a8b41d8) <br>
