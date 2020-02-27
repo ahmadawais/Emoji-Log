@@ -17,7 +17,7 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@commitlint/cli": "^8.3.5",
-		"commitlint-config-emoji-log": "^0.7.0",
+		"commitlint-config-emoji-log": "^0.8.0",
 		"husky": "^4.2.1",
 		"lerna": "^3.20.2"
 	},
