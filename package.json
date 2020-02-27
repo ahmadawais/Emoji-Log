@@ -47,7 +47,8 @@
 			"FIX: ": "",
 			"NEW: ": "",
 			"IMPROVE: ": "",
-			"DOC: ": ""
+			"DOC: ": "",
+			"BREAKING: ": ""
 		}
 	}
 }

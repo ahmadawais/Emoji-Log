@@ -26,9 +26,9 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 1. **RULES** ↓
     - A small number of categories — easy to memorize.
     - Nothing more nothing less.
-    - E.g. `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `🤖 TEST`
+    - E.g. `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, `🤖 TEST`, and `‼️ BREAKING`
 2. **ACTIONS** ↓
-    - Make git commits based on actions you take.
+    - Make git commits based on the actions you take.
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
 <br>
 
@@ -48,7 +48,7 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
 
 1. `🐛 FIX: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when you fix a bug — need I say more?
-    > E.g. `🐛 FIX: Case converter`
+    > E.g. `🐛 FIX: Case conversion`
 
 1. `📖 DOC: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when you add documentation like `README.md`, or even inline docs.
@@ -63,6 +63,11 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
 1. `🤖 TEST: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when it's related to testing.
     > E.g. `🤖 TEST: Mock User Login/Logout`
+
+
+1. `‼️ BREAKING: IMPERATIVE_MESSAGE_GOES_HERE`
+    > Use when releasing a change that breaks previous versions.
+    > E.g. `‼️ BREAKING: Change authentication protocol`
 
 _— That's it for now. Nothing more nothing less._
 
@@ -79,7 +84,8 @@ I'd like to share what each of these emojis mean.
 - `🐛 FIX:` Emoji meaning: A "bug emoji" — which means there was a bug that got fixed.
 - `📖 DOCS:` Emoji meaning: A "book emoji" — which means documentation or notes just like in a book.
 - `🚀 RELEASE:` Emoji meaning: A "rocket emoji" — which is meant to show a new release/launch.
-- `🤖 TEST:` Emoji meaning: A "check emoji" — which says some test were run successfully.
+- `🤖 TEST:` Emoji meaning: A "robot emoji" — which says some test were run successfully.
+- `‼️ BREAKING:` Emoji meaning: A "bangbang emoji" — which attracts readers attention to a breaking change.
 
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
@@ -121,6 +127,11 @@ function gdoc() {
 function gtst() {
     gcap "🤖 TEST: $@"
 }
+
+# BREAKING CHANGE.
+function gbrk() {
+    gcap "‼️ BREAKING: $@"
+}
 ```
 
 To install these functions for the fish shell, run the following commands:
@@ -133,6 +144,7 @@ function gfix; gcap "🐛 FIX: $argv"; end;
 function grlz; gcap "🚀 RELEASE: $argv"; end;
 function gdoc; gcap "📖 DOC: $argv"; end;
 function gtst; gcap "🤖 TEST: $argv"; end;
+function gbrk; gcap "‼️ BREAKING: $argv"; end;
 funcsave gcap
 funcsave gnew
 funcsave gimp
@@ -140,6 +152,7 @@ funcsave gfix
 funcsave grlz
 funcsave gdoc
 funcsave gtst
+funcsave gbrk
 ```
 
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
@@ -162,6 +175,8 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
   doc = "!f() { git cap \"📖 DOC: $@\"; }; f"
   # TEST.
   tst = "!f() { git cap \"🤖 TEST: $@\"; }; f"
+  # BREAKING CHANGE.
+  tst = "!f() { git cap \"‼️ BREAKING: $@\"; }; f"
 ```
 
 <br>
@@ -178,6 +193,36 @@ Here's a list of repos that make use of Emoji-Log.
 - [CaptainCore CLI (WordPress Management Toolkit) →](https://github.com/CaptainCore/captaincore-cli/commits/)
 - [CaptainCore GUI (WordPress plugin) →](https://github.com/CaptainCore/captaincore-gui/commits/)
 - **You?!** Add your repo to the list after adding the Emoji-log badge to your readme.
+
+<br>
+
+[![AlfredSnippets](https://on.ahmda.ws/05bd88/c)](./../../)
+
+### Alfred Snippets
+
+[Alfred](https://www.alfredapp.com/) [PowerPack](https://www.alfredapp.com/powerpack/) users can use the Snippets feature to quickly call Emoji-Log, or use the text expand feature for even quicker creation.
+
+To setup:
+
+1. Have Alfred 3 with PowerPack installed
+2. For auto expansion, in _Alfred Settings » Features » Snippets_ ensure the "Automatically expand snippets by Keyword" box is checked
+3. Download & open [`Emoji-Log.alfredsnippets`](Emoji-Log.alfredsnippets), deselecting "Strip snippets of 'auto expand' flag" when prompted
+
+This will give the following text expander keywords for the Emoji-Log:
+
+| Keyword |   Snippet    |
+| ------- | ------------ |
+| `;gnew` | 📦 NEW:      |
+| `;gimp` | 👌 IMPROVE:  |
+| `;gfix` | 🐛 FIX:      |
+| `;grlz` | 🚀 RELEASE:  |
+| `;gdoc` | 📖 DOC:      |
+| `;gtst` | 🤖 TEST:     |
+| `;gbrk` | ‼️ BREAKING:  |
+
+To edit the `;` prefix to your preferred expansion flag, double click right click the Emoji-Log Collection in _Alfred Settings » Features » Snippets_.
+
+> TextExpander Snippets are also available. Download & open [`Emoji-Log.textexpander`](Emoji-Log.textexpander) to import.
 
 <br>
 
@@ -237,33 +282,6 @@ If your repo uses `EMOJI-LOG` then you can add any of the following badges to yo
 ```html
 <a href="https://github.com/ahmadawais/Emoji-Log/"><img alt="emoji-log" src="https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg" /></a>
 ```
-
-<br>
-
-[![AlfredSnippets](https://on.ahmda.ws/05bd88/c)](./../../)
-
-### Alfred Snippets
-
-[Alfred](https://www.alfredapp.com/) [PowerPack](https://www.alfredapp.com/powerpack/) users can use the Snippets feature to quickly call Emoji-Log, or use the text expand feature for even quicker creation.
-
-To setup:
-
-1. Have Alfred 3 with PowerPack installed
-2. For auto expansion, in _Alfred Settings » Features » Snippets_ ensure the "Automatically expand snippets by Keyword" box is checked
-3. Download & open [`Emoji-Log.alfredsnippets`](Emoji-Log.alfredsnippets), deselecting "Strip snippets of 'auto expand' flag" when prompted
-
-This will give the following text expander keywords for the Emoji-Log:
-
-| Keyword |  Snippet   |
-| ------- | ---------- |
-| `;gnew` | 📦 NEW:     |
-| `;gimp` | 👌 IMPROVE: |
-| `;gfix` | 🐛 FIX:     |
-| `;grlz` | 🚀 RELEASE: |
-| `;gdoc` | 📖 DOC:     |
-| `;gtst` | 🤖 TEST:    |
-
-To edit the `;` prefix to your preferred expansion flag, double click right click the Emoji-Log Collection in _Alfred Settings » Features » Snippets_.
 
 <br>
 
