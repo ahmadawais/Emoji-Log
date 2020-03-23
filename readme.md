@@ -176,7 +176,7 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
   # TEST.
   tst = "!f() { git cap \"🤖 TEST: $@\"; }; f"
   # BREAKING CHANGE.
-  tst = "!f() { git cap \"‼️ BREAKING: $@\"; }; f"
+  brk = "!f() { git cap \"‼️ BREAKING: $@\"; }; f"
 ```
 
 <br>
