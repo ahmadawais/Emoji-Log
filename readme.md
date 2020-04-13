@@ -87,6 +87,12 @@ I'd like to share what each of these emojis mean.
 - `🤖 TEST:` Emoji meaning: A "robot emoji" — which says some test were run successfully.
 - `‼️ BREAKING:` Emoji meaning: A "bangbang emoji" — which attracts attention to a breaking change.
 
+##### VSCode Extension
+
+If you use VSCode, then I have built an extension [Emoji-Log for VSCode](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode). This can help you write git commit messages quickly.
+
+##### Bash/Zsh Workflow
+
 For quick prototyping, I have made the following functions that you can add to your `.bashrc`/`.zshrc` files and use Emoji-Log quickly.
 
 ```sh
@@ -134,6 +140,8 @@ function gbrk() {
 }
 ```
 
+##### Fish Shell Workflow
+
 To install these functions for the fish shell, run the following commands:
 
 ```sh
@@ -154,6 +162,8 @@ funcsave gdoc
 funcsave gtst
 funcsave gbrk
 ```
+
+##### Git Aliases
 
 If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
