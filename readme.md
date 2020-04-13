@@ -20,7 +20,7 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open source, a
 
 1. **IMPERATIVE** ↓
     - Make your Git commit messages imperative.
-    - Write commit message like you're giving an order.
+    - Write a commit message like you're giving an order.
     - E.g., Use ✅ `Add` instead of ❌ `Added`.
     - E.g., Use ✅ `Create` instead of ❌ `Creating`.
 1. **RULES** ↓
