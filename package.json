@@ -48,7 +48,8 @@
 			"NEW: ": "",
 			"IMPROVE: ": "",
 			"DOC: ": "",
-			"BREAKING: ": ""
+            "BREAKING: ": "",
+            "STYLE: ": ""
 		}
 	}
 }

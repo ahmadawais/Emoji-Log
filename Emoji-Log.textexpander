@@ -27,7 +27,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>0DE8B293-30AC-4E84-9528-07CECA1F9A48</string>
+			<string>15AC340F-433E-4B9C-B926-F1A47483A88E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -45,7 +45,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>5F952B1C-EA06-4524-A5A0-2776BC9C1A05</string>
+			<string>9A9B229D-8016-44B8-9BF9-305ADDA1D220</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -63,7 +63,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>A98980C6-3C6F-4CA3-BB1A-A29C5F091314</string>
+			<string>83C32C16-3FE0-494D-9E52-4164230EA9F0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -81,7 +81,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>BA73EDB0-14F2-4FF7-8F15-A49A6D499CCB</string>
+			<string>49820CEE-C452-4349-B68D-62431DCD3528</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -99,7 +99,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>ABD86CD0-B2BF-499E-BF72-B43C331ADC24</string>
+			<string>DCEB887E-EB10-4D09-984B-3D32DFB067A9</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -117,7 +117,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>8471572C-6199-4EE2-B56E-A0C15A20A029</string>
+			<string>82D66DCA-A825-4E40-86D9-9002AAD08068</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -135,7 +135,25 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>BAD98800-C270-4EE2-B859-739A83D9C40F</string>
+			<string>944DCABB-B2EF-4ABF-B5A2-5FD162549175</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gstyle</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2020-04-29T13:48:22Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2020-04-29T13:48:22Z</date>
+			<key>plainText</key>
+			<string>💅 STYLE: </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>F505E643-FA8A-4042-AA50-397EE57FE70D</string>
 		</dict>
 	</array>
 </dict>

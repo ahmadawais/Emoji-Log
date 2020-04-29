@@ -18,6 +18,10 @@ All notable changes in this project's [released versions](https://github.com/ahm
     ### RELEASE: {{title}}{{#if tag}}{{/if}}
   {{/if}}
 
+  {{#commit-list commits heading='![STYLE](https://img.shields.io/badge/-STYLE-gray.svg?colorB=FF69B4)' message='STYLE: '}}
+    > {{subject}} [`{{shorthash}}`]({{href}}) <br>
+  {{/commit-list}}
+
   {{#commit-list commits heading='![BREAKING](https://img.shields.io/badge/-BREAKING%20CHANGES-gray.svg?colorB=F91800)' message='BREAKING: '}}
     > {{subject}} [`{{shorthash}}`]({{href}}) <br>
   {{/commit-list}}
