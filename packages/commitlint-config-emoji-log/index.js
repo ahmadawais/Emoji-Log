@@ -26,6 +26,6 @@ module.exports = {
 		'subject-full-stop': [2, 'never', '.'],
 		'type-empty': [2, 'never'],
 		'type-case': [2, 'always', 'upper-case'],
-		'type-enum': [2, 'always', ['📦 NEW', '👌 IMPROVE', '🐛 FIX', '🚀 RELEASE', '🦄 RELEASE', '📖 DOC', '✅ TEST', '‼️ BREAKING']]
+		'type-enum': [2, 'always', ['📦 NEW', '👌 IMPROVE', '🐛 FIX', '🚀 RELEASE', '📖 DOC', '🔎 TEST', '‼️ BREAKING']]
 	}
 };
