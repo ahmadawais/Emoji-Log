@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/ahmadawais/Emoji-Log"><img src="https://on.ahmda.ws/pXeE/c" /></a>
+  <a href="https://github.com/ahmadawais/Emoji-Log"><img src="https://user-images.githubusercontent.com/960133/120058277-31849580-c063-11eb-80f7-d92ff54560d8.png" /></a>
 
 `EMOJI-LOG`
 
@@ -11,7 +11,8 @@ After building [hundreds of open source software](https://github.com/ahmadawais)
 
 <br>
 
-![Philosophy](https://on.ahmda.ws/orq5/c)
+![Philosophy](https://user-images.githubusercontent.com/960133/120058283-3ea18480-c063-11eb-8a62-8146227093fa.png)
+
 
 ### PHILOSOPHY
 
@@ -31,7 +32,8 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open-source, a
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
 <br>
 
-[![Start](https://on.ahmda.ws/osd3/c)](./../../)
+![Start](https://user-images.githubusercontent.com/960133/120058297-4c570a00-c063-11eb-8458-0f61cf621169.png)
+
 
 ### GETTING STARTED
 
@@ -72,7 +74,8 @@ _— That's it for now. Nothing more nothing less._
 
 <br>
 
-[![More](https://on.ahmda.ws/orsm/c)](./../../)
+![More](https://user-images.githubusercontent.com/960133/120058303-5547db80-c063-11eb-87ae-17f758a4e43b.png)
+
 
 #### THE WORKFLOW & MEANINGS
 
@@ -190,7 +193,8 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 <br>
 
-[![Using](https://on.ahmda.ws/rP6e/c)](./../../)
+![Using](https://user-images.githubusercontent.com/960133/120058311-61339d80-c063-11eb-9853-da0905b7c288.png)
+
 
 ### USING `EMOJI-LOG`
 
@@ -205,7 +209,8 @@ Here's a list of repos that make use of Emoji-Log.
 
 <br>
 
-[![AlfredSnippets](https://on.ahmda.ws/05bd88/c)](./../../)
+![AlfredSnippets](https://user-images.githubusercontent.com/960133/120058316-685aab80-c063-11eb-8bfd-cb0d4b3e34c2.png)
+
 
 ### Alfred Snippets
 
@@ -235,7 +240,8 @@ To edit the `;` prefix to your preferred expansion flag, double click right clic
 
 <br>
 
-[![badge](https://on.ahmda.ws/rOMZ/c)](./../../)
+![badge](https://user-images.githubusercontent.com/960133/120058320-6ee92300-c063-11eb-834c-20463fdfb0dd.png)
+
 
 ### `EMOJI-LOG` BADGE COLLECTION
 
@@ -322,11 +328,11 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 ## Connect
 
 <div align="left">
-    <p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To stay up to date on free & open-source software</small></p>
-    <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To get #OneDevMinute daily hot tips & trolls</small></p>
-    <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&colorA=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> To tech talks & #OneDevMinute videos</small></p>
-    <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
-    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+    <p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To stay up to date on free & open-source software</small></p>
+    <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To get #OneDevMinute daily hot tips & trolls</small></p>
+    <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> To tech talks & #OneDevMinute videos</small></p>
+    <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
+    <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
 </div>
 
 <br>
