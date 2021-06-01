@@ -102,43 +102,54 @@ For quick prototyping, I have made the following functions that you can add to y
 ### Using EMOJI-LOG (https://github.com/ahmadawais/Emoji-Log).
 
 # Git Commit, Add all and Push — in one step.
-function gcap() {
+gcap() {
     git add . && git commit -m "$*" && git push
 }
 
 # NEW.
-function gnew() {
+gnew() {
     gcap "📦 NEW: $@"
 }
 
 # IMPROVE.
-function gimp() {
+gimp() {
     gcap "👌 IMPROVE: $@"
 }
 
 # FIX.
-function gfix() {
+gfix() {
     gcap "🐛 FIX: $@"
 }
 
 # RELEASE.
-function grlz() {
+grlz() {
     gcap "🚀 RELEASE: $@"
 }
 
 # DOC.
-function gdoc() {
+gdoc() {
     gcap "📖 DOC: $@"
 }
 
 # TEST.
-function gtst() {
+gtst() {
     gcap "🤖 TEST: $@"
 }
 
 # BREAKING CHANGE.
-function gbrk() {
+gbrk() {
     gcap "‼️ BREAKING: $@"
+}
+gtype() {
+NORMAL='\033[0;39m'
+GREEN='\033[0;32m'
+echo "$GREEN gnew$NORMAL — 📦 NEW
+$GREEN gimp$NORMAL — 👌 IMPROVE
+$GREEN gfix$NORMAL — 🐛 FIX
+$GREEN grlz$NORMAL — 🚀 RELEASE
+$GREEN gdoc$NORMAL — 📖 DOC
+$GREEN gtst$NORMAL — 🧪️ TEST
+$GREEN gbrk$NORMAL — ‼️ BREAKING"
 }
 ```
 
