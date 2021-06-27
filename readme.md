@@ -13,7 +13,6 @@ After building [hundreds of open source software](https://github.com/ahmadawais)
 
 ![Philosophy](https://user-images.githubusercontent.com/960133/120058283-3ea18480-c063-11eb-8a62-8146227093fa.png)
 
-
 ### PHILOSOPHY
 
 I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open-source, all of that is inherently dull and sometimes boring. Emoji (which is, in fact, the plural of emoji) helps me add colors and emotions to the mix. Nothing wrong if you want to attach feelings to this 2D flat text-based world of code. I found out that instead of memorizing [hundreds of emoji](https://gitmoji.carloscuesta.me/) it's better to keep the categories small and general.
@@ -30,10 +29,10 @@ I like emoji. I like ’em a lot. Programming, code, geeks/nerds, open-source, a
 1. **ACTIONS** ↓
     - Make git commits based on the actions you take.
     - Use a good editor like [VSCode](https://code.visualstudio.com/) to commit the right files with commit messages.
+
 <br>
 
 ![Start](https://user-images.githubusercontent.com/960133/120058297-4c570a00-c063-11eb-8458-0f61cf621169.png)
-
 
 ### GETTING STARTED
 
@@ -55,16 +54,13 @@ Only use the following Git Commit Messages. A simple and small footprint is crit
     > Use when you add documentation like `README.md`, or even inline docs.
     > E.g. `📖 DOC: API Interface Tutorial`
 
-
 1. `🚀 RELEASE: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when you release a new version.
     > E.g. `🚀 RELEASE: Version 2.0.0`
 
-
 1. `🤖 TEST: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when it's related to testing.
     > E.g. `🤖 TEST: Mock User Login/Logout`
-
 
 1. `‼️ BREAKING: IMPERATIVE_MESSAGE_GOES_HERE`
     > Use when releasing a change that breaks previous versions.
@@ -75,7 +71,6 @@ _— That's it for now. Nothing more nothing less._
 <br>
 
 ![More](https://user-images.githubusercontent.com/960133/120058303-5547db80-c063-11eb-87ae-17f758a4e43b.png)
-
 
 #### THE WORKFLOW & MEANINGS
 
@@ -206,7 +201,6 @@ If you prefer, you can paste these aliases directly in your `~/.gitconfig` file:
 
 ![Using](https://user-images.githubusercontent.com/960133/120058311-61339d80-c063-11eb-9853-da0905b7c288.png)
 
-
 ### USING `EMOJI-LOG`
 
 Here's a list of repos that make use of Emoji-Log.
@@ -221,7 +215,6 @@ Here's a list of repos that make use of Emoji-Log.
 <br>
 
 ![AlfredSnippets](https://user-images.githubusercontent.com/960133/120058316-685aab80-c063-11eb-8bfd-cb0d4b3e34c2.png)
-
 
 ### Alfred Snippets
 
@@ -252,7 +245,6 @@ To edit the `;` prefix to your preferred expansion flag, double click right clic
 <br>
 
 ![badge](https://user-images.githubusercontent.com/960133/120058320-6ee92300-c063-11eb-834c-20463fdfb0dd.png)
-
 
 ### `EMOJI-LOG` BADGE COLLECTION
 
@@ -345,5 +337,3 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
     <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
     <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
 </div>
-
-<br>

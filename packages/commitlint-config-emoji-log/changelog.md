@@ -15,7 +15,7 @@ I have released a video course to help you become a better developer — <a href
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
 
-**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `🤖️ TEST`
 
 <small>
 
@@ -68,13 +68,13 @@ I have released a video course to help you become a better developer — <a href
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
->  📖 Emojis meaning [`0e0fc04`](https://github.com/ahmadawais/Emoji-Log/commit/0e0fc04be2ce100eaac129222cf04e4cc33f0d85) <br>
->  📖 Alias block notice [`be97f3a`](https://github.com/ahmadawais/Emoji-Log/commit/be97f3a099e8a45e8af546cc5489b13f03fdd3b1) <br>
->  📖 Linkify the name [`dd7e914`](https://github.com/ahmadawais/Emoji-Log/commit/dd7e914e30d5f50b8b6606d1804a687dc5c6e3ea) <br>
+> 📖 Emojis meaning [`0e0fc04`](https://github.com/ahmadawais/Emoji-Log/commit/0e0fc04be2ce100eaac129222cf04e4cc33f0d85) <br>
+> 📖 Alias block notice [`be97f3a`](https://github.com/ahmadawais/Emoji-Log/commit/be97f3a099e8a45e8af546cc5489b13f03fdd3b1) <br>
+> 📖 Linkify the name [`dd7e914`](https://github.com/ahmadawais/Emoji-Log/commit/dd7e914e30d5f50b8b6606d1804a687dc5c6e3ea) <br>
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 v0.7.0 [`6f4dff5`](https://github.com/ahmadawais/Emoji-Log/commit/6f4dff5dab09f36fae234a020c433cd510b18b90) <br>
+> 🚀️ v0.7.0 [`6f4dff5`](https://github.com/ahmadawais/Emoji-Log/commit/6f4dff5dab09f36fae234a020c433cd510b18b90) <br>
 
 <br>
 
@@ -92,7 +92,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.7.0 [`9655173`](https://github.com/ahmadawais/Emoji-Log/commit/965517363f5eb303fb04179ad5ac5ff48754e632) <br>
+> 🚀️ 0.7.0 [`9655173`](https://github.com/ahmadawais/Emoji-Log/commit/965517363f5eb303fb04179ad5ac5ff48754e632) <br>
 
 <br>
 
@@ -113,7 +113,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.6.0 [`c404ed5`](https://github.com/ahmadawais/Emoji-Log/commit/c404ed518891a217f22bcb165786cacfe38b8f82) <br>
+> 🚀️ 0.6.0 [`c404ed5`](https://github.com/ahmadawais/Emoji-Log/commit/c404ed518891a217f22bcb165786cacfe38b8f82) <br>
 
 <br>
 
@@ -125,7 +125,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.5.0 [`91c5e53`](https://github.com/ahmadawais/Emoji-Log/commit/91c5e5377bec9e19aade68642487aeb34324c8da) <br>
+> 🚀️ 0.5.0 [`91c5e53`](https://github.com/ahmadawais/Emoji-Log/commit/91c5e5377bec9e19aade68642487aeb34324c8da) <br>
 
 <br>
 
@@ -141,8 +141,8 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.4.0 [`e3fe164`](https://github.com/ahmadawais/Emoji-Log/commit/e3fe1648f28c077d7bc1b5e6e86534c5ce4c0d8a) <br>
-> 🦄 v0.4.0 [`aa1ae4c`](https://github.com/ahmadawais/Emoji-Log/commit/aa1ae4c4a81efa54e7a370a635cd9d2dcbc838aa) <br>
+> 🚀️ 0.4.0 [`e3fe164`](https://github.com/ahmadawais/Emoji-Log/commit/e3fe1648f28c077d7bc1b5e6e86534c5ce4c0d8a) <br>
+> 🚀️ v0.4.0 [`aa1ae4c`](https://github.com/ahmadawais/Emoji-Log/commit/aa1ae4c4a81efa54e7a370a635cd9d2dcbc838aa) <br>
 
 <br>
 
@@ -154,7 +154,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.4.0 [`9e5c33e`](https://github.com/ahmadawais/Emoji-Log/commit/9e5c33e057779b02cb4f592eeec9d1ae6415bc92) <br>
+> 🚀️ 0.4.0 [`9e5c33e`](https://github.com/ahmadawais/Emoji-Log/commit/9e5c33e057779b02cb4f592eeec9d1ae6415bc92) <br>
 
 <br>
 
@@ -170,7 +170,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 v0.3.1 [`0fba5cf`](https://github.com/ahmadawais/Emoji-Log/commit/0fba5cfbd0cc0fc97b8526239590dc065e1b440f) <br>
+> 🚀️ v0.3.1 [`0fba5cf`](https://github.com/ahmadawais/Emoji-Log/commit/0fba5cfbd0cc0fc97b8526239590dc065e1b440f) <br>
 
 <br>
 
@@ -190,7 +190,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 v0.3.0 [`5e0d5fc`](https://github.com/ahmadawais/Emoji-Log/commit/5e0d5fc8d610911935397cb3449f41ae4a898b42) <br>
+> 🚀️ v0.3.0 [`5e0d5fc`](https://github.com/ahmadawais/Emoji-Log/commit/5e0d5fc8d610911935397cb3449f41ae4a898b42) <br>
 
 <br>
 
@@ -202,7 +202,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.3.0 [`ca83fc1`](https://github.com/ahmadawais/Emoji-Log/commit/ca83fc1c08fdf3d4083d2c7edc03d8e87b50d866) <br>
+> 🚀️ 0.3.0 [`ca83fc1`](https://github.com/ahmadawais/Emoji-Log/commit/ca83fc1c08fdf3d4083d2c7edc03d8e87b50d866) <br>
 
 <br>
 
@@ -223,7 +223,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 v0.2.0 [`2f5d1b1`](https://github.com/ahmadawais/Emoji-Log/commit/2f5d1b1f48c8f9e900f49eb04893aefcd3a30391) <br>
+> 🚀️ v0.2.0 [`2f5d1b1`](https://github.com/ahmadawais/Emoji-Log/commit/2f5d1b1f48c8f9e900f49eb04893aefcd3a30391) <br>
 
 <br>
 
@@ -277,8 +277,8 @@ I have released a video course to help you become a better developer — <a href
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
->  📖 Draft Standard [`fbd3f02`](https://github.com/ahmadawais/Emoji-Log/commit/fbd3f02dfc837ae8982cbb08b0c3b7e5b83b91ba) <br>
->  📖 Update [`a701eda`](https://github.com/ahmadawais/Emoji-Log/commit/a701eda875f22a43490a61bdcee516bfb0fb4f58) <br>
+> 📖 Draft Standard [`fbd3f02`](https://github.com/ahmadawais/Emoji-Log/commit/fbd3f02dfc837ae8982cbb08b0c3b7e5b83b91ba) <br>
+> 📖 Update [`a701eda`](https://github.com/ahmadawais/Emoji-Log/commit/a701eda875f22a43490a61bdcee516bfb0fb4f58) <br>
 > 📖 Formatting [`70f2864`](https://github.com/ahmadawais/Emoji-Log/commit/70f2864486c21301e6277b1c1336dfb970fff1cf) <br>
 > 📖 Format [`2a49ee2`](https://github.com/ahmadawais/Emoji-Log/commit/2a49ee2a5588271b3a98e6fe0fd3116fe0856f39) <br>
 > 📖 Concise [`d160904`](https://github.com/ahmadawais/Emoji-Log/commit/d16090447b89cf325bba1a7c483078232ee64dca) <br>
@@ -289,11 +289,11 @@ I have released a video course to help you become a better developer — <a href
 > 📖 Format on br [`7ec0a55`](https://github.com/ahmadawais/Emoji-Log/commit/7ec0a559e337228cd3b6cda6e7e6e06752c6717b) <br>
 > 📖 Headings over points [`07e3951`](https://github.com/ahmadawais/Emoji-Log/commit/07e39516608520d8a664a2baba32a7858813796b) <br>
 > :book: Reverse Emoji-log badge image displays [`e000fdd`](https://github.com/ahmadawais/Emoji-Log/commit/e000fdd7370ef1a2d203f4612d7cb1c43f7831cf) <br>
->  📖 Emoji-log Badge [`a336dcc`](https://github.com/ahmadawais/Emoji-Log/commit/a336dcce456c05220db607beb3876f93ee0ccb6e) <br>
+> 📖 Emoji-log Badge [`a336dcc`](https://github.com/ahmadawais/Emoji-Log/commit/a336dcce456c05220db607beb3876f93ee0ccb6e) <br>
 > 📖 Add separate projects to list of repos. [`10c2c5f`](https://github.com/ahmadawais/Emoji-Log/commit/10c2c5fe72a7c25c11fc04b3a91fd4c85d198835) <br>
 > 📖 Use the badge [`cde9bad`](https://github.com/ahmadawais/Emoji-Log/commit/cde9bad4225d38077f98120bd018680a4847e380) <br>
 > 📖 Lingo [`8afbafb`](https://github.com/ahmadawais/Emoji-Log/commit/8afbafbaa87d1cdbb8781f9803935e35e394066e) <br>
->  📖 Blockquote [`a46c1ed`](https://github.com/ahmadawais/Emoji-Log/commit/a46c1eddc177b93ff7ed9f3389ad7bef5a1f7ea6) <br>
+> 📖 Blockquote [`a46c1ed`](https://github.com/ahmadawais/Emoji-Log/commit/a46c1eddc177b93ff7ed9f3389ad7bef5a1f7ea6) <br>
 > 📖 Bettet Badge requests [`300290c`](https://github.com/ahmadawais/Emoji-Log/commit/300290c0c2f4961dfcfebb661f9a5887922de003) <br>
 > 📖 Add link to repo using. [`0a339f3`](https://github.com/ahmadawais/Emoji-Log/commit/0a339f3cdf41528f88d00eb3138360570ab91314) <br>
 > 📖 Add link to repo using. [`b4db28d`](https://github.com/ahmadawais/Emoji-Log/commit/b4db28dc03907f61cfde98d68cc4560ed3be55ca) <br>
@@ -301,7 +301,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🦄 0.1.0 [`7ddd380`](https://github.com/ahmadawais/Emoji-Log/commit/7ddd38033c01aec3d3bdf34b2a73c2176f942b25) <br>
+> 🚀️ 0.1.0 [`7ddd380`](https://github.com/ahmadawais/Emoji-Log/commit/7ddd38033c01aec3d3bdf34b2a73c2176f942b25) <br>
 
 <br>
 
