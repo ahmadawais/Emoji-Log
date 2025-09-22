@@ -259,13 +259,13 @@ This will give you the following text expander keywords for Emoji-Log:
 
 | Keyword |   Snippet    |
 | ------- | ------------ |
-| `gnew`  | 📦 NEW:      |
-| `gimp`  | 👌 IMPROVE:  |
-| `gfix`  | 🐛 FIX:      |
-| `grlz`  | 🚀 RELEASE:  |
-| `gdoc`  | 📖 DOC:      |
-| `gtst`  | 🤖 TEST:     |
-| `gbrk`  | ‼️ BREAKING: |
+| `;gnew` | 📦 NEW:      |
+| `;gimp` | 👌 IMPROVE:  |
+| `;gfix` | 🐛 FIX:      |
+| `;grlz` | 🚀 RELEASE:  |
+| `;gdoc` | 📖 DOC:      |
+| `;gtst` | 🤖 TEST:     |
+| `;gbrk` | ‼️ BREAKING: |
 
 > **Pro Tip:** You can also generate the snippets file programmatically by running `node generate-raycast-snippets.js` in the repository root.
 

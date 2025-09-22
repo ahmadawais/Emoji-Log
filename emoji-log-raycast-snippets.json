@@ -2,36 +2,36 @@
   {
     "name": "NEW",
     "text": "📦 NEW: ",
-    "keyword": "gnew"
+    "keyword": ";gnew"
   },
   {
     "name": "IMPROVE",
     "text": "👌 IMPROVE: ",
-    "keyword": "gimp"
+    "keyword": ";gimp"
   },
   {
     "name": "FIX",
     "text": "🐛 FIX: ",
-    "keyword": "gfix"
+    "keyword": ";gfix"
   },
   {
     "name": "DOC",
     "text": "📖 DOC: ",
-    "keyword": "gdoc"
+    "keyword": ";gdoc"
   },
   {
     "name": "RELEASE",
     "text": "🚀 RELEASE: ",
-    "keyword": "grlz"
+    "keyword": ";grlz"
   },
   {
     "name": "TEST",
     "text": "🤖 TEST: ",
-    "keyword": "gtst"
+    "keyword": ";gtst"
   },
   {
     "name": "BREAKING",
     "text": "‼️ BREAKING: ",
-    "keyword": "gbrk"
+    "keyword": ";gbrk"
   }
 ]

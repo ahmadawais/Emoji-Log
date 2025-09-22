@@ -14,13 +14,13 @@ const fs = require("fs");
 const path = require("path");
 
 const snippets = [
-  { name: "NEW", text: "📦 NEW: ", keyword: "gnew" },
-  { name: "IMPROVE", text: "👌 IMPROVE: ", keyword: "gimp" },
-  { name: "FIX", text: "🐛 FIX: ", keyword: "gfix" },
-  { name: "DOC", text: "📖 DOC: ", keyword: "gdoc" },
-  { name: "RELEASE", text: "🚀 RELEASE: ", keyword: "grlz" },
-  { name: "TEST", text: "🤖 TEST: ", keyword: "gtst" },
-  { name: "BREAKING", text: "‼️ BREAKING: ", keyword: "gbrk" }
+  { name: "NEW", text: "📦 NEW: ", keyword: ";gnew" },
+  { name: "IMPROVE", text: "👌 IMPROVE: ", keyword: ";gimp" },
+  { name: "FIX", text: "🐛 FIX: ", keyword: ";gfix" },
+  { name: "DOC", text: "📖 DOC: ", keyword: ";gdoc" },
+  { name: "RELEASE", text: "🚀 RELEASE: ", keyword: ";grlz" },
+  { name: "TEST", text: "🤖 TEST: ", keyword: ";gtst" },
+  { name: "BREAKING", text: "‼️ BREAKING: ", keyword: ";gbrk" }
 ];
 
 const outputPath = path.join(__dirname, "emoji-log-raycast-snippets.json");
