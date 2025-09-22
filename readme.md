@@ -244,6 +244,33 @@ To edit the `;` prefix to your preferred expansion flag, double click right clic
 
 <br>
 
+### Raycast Snippets
+
+[Raycast](https://www.raycast.com/) users can use the Snippets feature to quickly expand Emoji-Log commit messages with text shortcuts.
+
+To setup:
+
+1. Download the [`emoji-log-raycast-snippets.json`](emoji-log-raycast-snippets.json) file
+2. Open Raycast → Snippets
+3. Select "Import Snippets"
+4. Choose the downloaded JSON file
+
+This will give you the following text expander keywords for Emoji-Log:
+
+| Keyword |   Snippet    |
+| ------- | ------------ |
+| `gnew`  | 📦 NEW:      |
+| `gimp`  | 👌 IMPROVE:  |
+| `gfix`  | 🐛 FIX:      |
+| `grlz`  | 🚀 RELEASE:  |
+| `gdoc`  | 📖 DOC:      |
+| `gtst`  | 🤖 TEST:     |
+| `gbrk`  | ‼️ BREAKING: |
+
+> **Pro Tip:** You can also generate the snippets file programmatically by running `node generate-raycast-snippets.js` in the repository root.
+
+<br>
+
 ![badge](https://user-images.githubusercontent.com/960133/120058320-6ee92300-c063-11eb-834c-20463fdfb0dd.png)
 
 ### `EMOJI-LOG` BADGE COLLECTION
